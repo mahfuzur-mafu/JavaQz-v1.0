@@ -52,6 +52,18 @@ Git hub Repository Link: https://github.com/mahfuzur-mafu/JavaQz-v1.0
 
 •	Admin Panel
 
+# Challenges Faced 
+
+•	Faced error into database issue.
+
+•	Different kinds of framework version issue.
+
+•	Faced not getting any data from user input.
+
+•	Front end logical issue.
+
+•	Faced Some Little bugs.
+
 
 
 
