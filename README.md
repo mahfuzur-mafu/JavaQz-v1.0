@@ -23,3 +23,37 @@ We are going to create a web application through which a user can take a quiz on
 # UML Model 
 ![JavaQz UML Model](https://user-images.githubusercontent.com/63856744/114263590-4f8d2c80-9a08-11eb-80da-3899ee29ced3.png)
 
+# Implemented Software 
+IDE- Spring Tool suite 4 
+
+JDK - Java 1.8
+
+Framework - Spring Boot 4.2 (MVC) 
+
+Database – MySql Workbench 8.0(Spring Data Jpa)
+
+Front-end: HTML,CSS,Thymeleaf
+
+Back-end: Java 1.8
+
+# Application Version with source code 
+
+Git hub Repository  Name : JavaQz v1.0 
+
+Git hub Repository Link: https://github.com/mahfuzur-mafu/JavaQz-v1.0
+
+# Future Update 
+
+•	Host into web server
+
+•	User can choose number of question.
+
+•	Separate leaderboard by question size.
+
+•	Admin Panel
+
+
+
+
+
+
