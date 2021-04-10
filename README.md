@@ -65,7 +65,7 @@ Back-end: Java 1.8
 
 •	Faced not getting any data from user input.
 
-•	Front end logical issue.
+•	Front-end logical issue.
 
 •	Faced Some Little bugs.
 
@@ -84,7 +84,7 @@ This was a great experience doing this project. This project was intended to mak
 
 JavaQz © Fantastic Four 
 
-©2021 Fantastic Four. All rights reserved
+©2021 Team Fantastic Four. All rights reserved
 
 
 
