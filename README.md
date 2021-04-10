@@ -64,6 +64,22 @@ Git hub Repository Link: https://github.com/mahfuzur-mafu/JavaQz-v1.0
 
 •	Faced Some Little bugs.
 
+# Conclusion 
+This was a great experience doing this project. This project was intended to make the quiz web application system easier and reliable. I hope the intention of the program gets full filled. It will greatly help the beginners who are suffering in java. The challenges we faced and the learning we have gone through will come in great help in the future.
+
+               
+                                       ~~Thank you for using our web application~~ 
+
+
+
+
+
+
+
+
+JavaQz © Fantastic Four 
+
+©2021 Fantastic Four. All rights reserved
 
 
 
