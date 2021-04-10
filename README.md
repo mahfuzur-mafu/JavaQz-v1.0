@@ -28,7 +28,9 @@ IDE- Spring Tool suite 4
 
 JDK - Java 1.8
 
-Framework - Spring Boot 4.2 (MVC) 
+Framework - Spring Boot 2.4.4 
+
+Software Architecture - MVC 
 
 Database – MySql Workbench 8.0(Spring Data Jpa)
 
