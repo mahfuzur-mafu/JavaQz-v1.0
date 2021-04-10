@@ -8,7 +8,7 @@
 		<version>2.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.mahfuz</groupId>
+	<groupId>com.fantastic4</groupId>
 	<artifactId>spring-boot-quiz-starter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-quiz-starter</name>
