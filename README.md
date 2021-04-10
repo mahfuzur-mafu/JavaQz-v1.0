@@ -35,12 +35,15 @@ Database – MySql Workbench 8.0(Spring Data Jpa)
 Front-end: HTML,CSS,Thymeleaf
 
 Back-end: Java 1.8
+# DataBase Connection 
+# Question Table 
 
-# Application Version with source code 
+![question_dbms](https://user-images.githubusercontent.com/63856744/114265063-7ea79c00-9a10-11eb-9906-d27dc50e77cc.png)
 
-Git hub Repository  Name : JavaQz v1.0 
+# Leaderboard Table
 
-Git hub Repository Link: https://github.com/mahfuzur-mafu/JavaQz-v1.0
+![Leaderboard_dbms](https://user-images.githubusercontent.com/63856744/114265088-a991f000-9a10-11eb-8f6f-81425e40eb17.png)
+
 
 # Future Update 
 
