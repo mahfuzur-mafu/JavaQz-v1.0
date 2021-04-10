@@ -13,5 +13,8 @@ We are going to create a web application through which a user can take a quiz on
 # Result Page
 ![JavaQz Result Page](https://user-images.githubusercontent.com/63856744/114263424-2b7d1b80-9a07-11eb-8122-80b0aab5a2e8.png)
 
+# Leaderboard
+![JavaQz Leaderboard](https://user-images.githubusercontent.com/63856744/114263472-7860f200-9a07-11eb-847f-ca04f5c95525.png)
+
 
 
