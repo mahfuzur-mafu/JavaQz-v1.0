@@ -30,7 +30,7 @@ JDK - Java 1.8
 
 Framework - Spring Boot 2.4.4 
 
-Software Architecture - MVC 
+Software Design Pattern - MVC 
 
 Database – MySql Workbench 8.0(Spring Data Jpa)
 
