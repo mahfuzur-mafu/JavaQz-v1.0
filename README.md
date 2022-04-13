@@ -80,8 +80,5 @@ This was a great experience doing this project. This project was intended to mak
 
 
 
-
-
 JavaQz © Fantastic Four 
-
 ©2021 Team Fantastic Four. All Rights Reserved.
